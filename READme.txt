@@ -1,4 +1,4 @@
-This Dataset contais historical data about the Titanic disaster. Our goal is to correctly predict, base on some features of the passengers, who will die and who will survive.
+This Dataset contains historical data about the Titanic disaster. Our goal is to correctly predict, based on some features of the passengers, who will die and who will survive.
 
 ## PROJECT PLANNING 
 
